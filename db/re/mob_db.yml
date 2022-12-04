@@ -94576,7 +94576,7 @@ Body:
         Rate: 120
       - Item: T_Lance_Of_Kingdom
         Rate: 50
-        # RandomOptionGroup: AGW1   # TODO
+        RandomOptionGroup: AGW1
       - Item: Shadowdecon_Ore
         Rate: 120
       - Item: Polluted_Raydric_Card
@@ -94755,7 +94755,7 @@ Body:
         Rate: 120
       - Item: Prisoner_Dairy
         Rate: 50
-        # RandomOptionGroup: AGW1   # TODO
+        RandomOptionGroup: AGW1
       - Item: Shadowdecon_Ore
         Rate: 120
       - Item: Prison_Breaker_Card
@@ -94815,7 +94815,7 @@ Body:
         Rate: 120
       - Item: Wand_Of_Ice
         Rate: 50
-        # RandomOptionGroup: AGM1   # TODO
+        RandomOptionGroup: AGM1
       - Item: Shadowdecon_Ore
         Rate: 120
       - Item: Ice_Ghost_Card
@@ -94861,7 +94861,7 @@ Body:
         Rate: 120
       - Item: Wand_Of_Flame
         Rate: 50
-        # RandomOptionGroup: AGM1   # TODO
+        RandomOptionGroup: AGM1
       - Item: Shadowdecon_Ore
         Rate: 120
       - Item: Flame_Ghost_Card
@@ -95058,7 +95058,7 @@ Body:
         Rate: 120
       - Item: T_Sword_Of_Kingdom
         Rate: 50
-        # RandomOptionGroup: AGW1   # TODO
+        RandomOptionGroup: AGW1
       - Item: Shadowdecon_Ore
         Rate: 120
       - Item: Polluted_W_Man_Card
@@ -95112,7 +95112,7 @@ Body:
         Rate: 5000
       - Item: Staff_Of_Blue_Flame
         Rate: 100
-        # RandomOptionGroup: AGM1   # TODO
+        RandomOptionGroup: AGM1
       - Item: Polluted_Spi_Q_Card
         Rate: 1
         StealProtected: true
