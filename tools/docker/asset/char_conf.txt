@@ -1,4 +1,4 @@
 login_ip: login
-char_ip: 192.168.254.101
+char_ip: 15.235.197.7
 pincode_enabled: no
-server_name: DarylRO
+server_name: SpectralRO
