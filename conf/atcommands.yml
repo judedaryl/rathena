@@ -94,16 +94,21 @@ Body:
     Aliases:
       - monsterinfo
       - mi
+      - Mi
     Help: |
       Params: <monster name|ID>
       Shows monster info (stats, exp, drops etc).
   - Command: iteminfo
     Aliases:
       - ii
+      - Ii
     Help: |
       Params: <item name|ID>
       Shows item info (type, price etc).
   - Command: whodrops
+    Aliases:
+      - wd
+      - Wd
     Help: |
       Params: <item name|ID>
       Shows who drops an item (monster with highest drop rates).
